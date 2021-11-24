@@ -1,0 +1,19 @@
+
+.avatar {
+  margin-right: 50px;
+  border-radius: 50%;
+  width: 30px;
+  margin: 20px;
+}
+
+.title-profile {
+  font-size: 10px;
+  margin-top: 20px;
+  color: black;
+  margin-right: 900px
+}
+
+.mail-profile {
+  font-size: 10px;
+  color: black
+}

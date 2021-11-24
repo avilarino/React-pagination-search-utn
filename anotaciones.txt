@@ -1,0 +1,23 @@
+// como inicializar el trabajo !!!
+
+- npx create-react-app NombreDelProyecto
+- cd NombreDelProyecto
+- npm start
+
+/////////////////////////////////////////////////////////////////////////////
+
+se instala react-bootstrap para utilizar sus clases
+como fragmentos 
+- se utilizo en algunos momentos del trabajo.
+
+- npm i react-bootstrap
+
+- @HOOKFORM/RESOLVERS
+
+- npm i axios => para hacer solicitudes 
+
+///////////////////////////////////////////////////////////////////////////////
+
+Login / Registro
+
+npm install @auth0/auth0-react

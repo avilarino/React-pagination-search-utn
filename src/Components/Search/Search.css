@@ -1,0 +1,16 @@
+
+.button-search {
+  margin-left: 220px;
+  margin-top: 10px;
+  margin-bottom: 30px
+}
+
+.title-search {
+  text-align: center;
+  margin: 20px;
+  color: grey
+}
+
+button {
+  margin-top: 20px;
+}

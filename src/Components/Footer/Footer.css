@@ -1,0 +1,19 @@
+.footer {
+  height: 100px
+}
+
+.footer-p {
+  color: grey
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px
+}
+
+.social-media i {
+  margin: 10px;
+  color: grey
+}
