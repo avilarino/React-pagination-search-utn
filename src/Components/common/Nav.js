@@ -10,7 +10,10 @@ const Nav = () => {
     <>
      <div className="container-nav">
         <Profile />
+        <a href="/"><button>Agenda</button></a>
+        <a href="/search"><button>Rick & Morty</button></a>
         <Login />
+       
       </div>
     </>
   );

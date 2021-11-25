@@ -19,7 +19,7 @@ const Search = ({ handlerSearch }) => {
     <Row className="justify-content-center">
      
       <Col md={6}>
-      <h3 className="title-search"> ¿A que personaje querés parecerte hoy? </h3>
+      <h3 className="title-search"> Busca tu Sticker de Rick & Morty </h3>
         <Form onSubmit={handlerSubmit}>
           <Form.Group>
             <Form.Control
